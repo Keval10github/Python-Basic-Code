@@ -1,3 +1,15 @@
+## 🐍 Python Beginner Programs Repository
+Welcome to the Python Beginner Programs Repository!
+This collection is designed to help new learners master Python fundamentals through 100 practical, hands-on programs.
+
+# ✨ What’s Inside?
+100 beginner-friendly Python programs covering everything from “Hello World” to basic algorithms and data structures.
+
+Each program is self-contained, clearly named, and easy to run and understand.
+
+The repository is organized for step-by-step learning and quick reference.
+
+
 # 🚀 Progression Path
 The programs are arranged in order of increasing complexity:
 
