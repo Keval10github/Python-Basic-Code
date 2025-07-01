@@ -137,3 +137,10 @@ If you spot an error, have a suggestion, or want to request a new program, pleas
 # 🎉 Happy Coding!
 Explore, experiment, and enjoy your Python learning journey!
 Don’t just read the code — run it, break it, and make it your own! 🚀
+
+# ✍️ Developer’s Note
+I built this repo after stumbling through countless Python roadblocks—so you don’t have to!
+Dive in, code with confidence, and enjoy a smoother start than I ever had.
+
+— KEVAL RAVANI
+https://github.com/Keval10github
