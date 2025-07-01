@@ -128,3 +128,12 @@ Programs 76-100: Mini-projects and integrated concepts
 | 98  | Find the Square Root of a Number                         |
 | 99  | Calculate the Area of a Circle                           |
 | 100 | Calculate the Area of a Triangle                         |
+
+
+
+# 📬 Feedback
+If you spot an error, have a suggestion, or want to request a new program, please open an issue or start a discussion!
+
+# 🎉 Happy Coding!
+Explore, experiment, and enjoy your Python learning journey!
+Don’t just read the code — run it, break it, and make it your own! 🚀
