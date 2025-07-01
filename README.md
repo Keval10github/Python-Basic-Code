@@ -1,3 +1,16 @@
+🚀 Progression Path
+The programs are arranged in order of increasing complexity:
+
+Programs 1-15: Core basics (variables, operations, control flow)
+
+Programs 16-30: Intermediate concepts (data structures, functions)
+
+Programs 31-50: More advanced topics (algorithms, file handling)
+
+Programs 51-75: Practical applications and problem solving
+
+Programs 76-100: Mini-projects and integrated concepts
+
 # 🗂️ Index of Programs
 
 | No. | Program Title                                             |
