@@ -1,0 +1,11 @@
+from functools import reduce
+
+nums = [1, 2, 3, 4]
+# Map: double every number
+mapped = list(map(lambda x: x * 2, nums))
+# Filter: keep only even numbers
+filtered = list(filter(lambda x: x % 2 == 0, nums))
+# Reduce: sum all numbers
+reduced = reduce(lambda x, y: x + y, nums)
+
+print("Map:", mapped, "Filter:", filtered, "Reduce:", reduced)
